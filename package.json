@@ -1,0 +1,12 @@
+{
+  "name": "com.pyxlmedia.library",
+  "description": "A collection of various public JavaScript projects",
+  "author": {
+    "name": "Brandon Tom",
+    "email": "magicink@gmail.com"
+  },
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
